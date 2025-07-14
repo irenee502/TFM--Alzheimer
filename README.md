@@ -51,14 +51,14 @@ Notebook dedicado a la interpretación de los modelos de Deep Learning mediante 
 
 ---
 
-## 📄 Documentación adicional
+Documentación adicional
 
 * `TFM_vX.docx`: Documento oficial del Trabajo de Fin de Máster en formato Word, con resultados, figuras, interpretaciones y bibliografía.
 * `README.md`: Este archivo, que explica la estructura y propósito del repositorio.
 
 ---
 
-## 🧬 Requisitos y entorno
+Requisitos y entorno
 
 Se recomienda crear un entorno virtual con las siguientes librerías clave:
 
