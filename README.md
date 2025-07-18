@@ -8,6 +8,7 @@ A continuación se describe brevemente el contenido de cada uno de los archivos 
 1. `Descarga_DATABASE_TFM.ipynb`
 
 Notebook inicial que permite al usuario descargar los datos necesarios para ejecutar el resto del pipeline. Incluye rutas, estructuras y comprobación básica de integridad de los archivos descargados.
+
 ---
 
 2. `EDA_ML_TFM.ipynb` (Exploratory Data Analysis -MACHINE LEARNING )
