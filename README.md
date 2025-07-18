@@ -5,7 +5,7 @@ Este repositorio contiene todo el código, scripts y documentación utilizados e
 
 A continuación se describe brevemente el contenido de cada uno de los archivos y carpetas del repositorio:
 
-1. `descarga_datos.ipynb`
+1. `descarga_dl.ipynb`
 
 Notebook inicial que permite al usuario descargar los datos necesarios para ejecutar el resto del pipeline. Incluye rutas, estructuras y comprobación básica de integridad de los archivos descargados.
 
