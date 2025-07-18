@@ -5,11 +5,11 @@ Este repositorio contiene todo el código, scripts y documentación utilizados e
 
 A continuación se describe brevemente el contenido de cada uno de los archivos y carpetas del repositorio:
 
-1. `descarga_dl.ipynb`
+1. `Descarga_DL.ipynb`
 
 Notebook inicial que permite al usuario descargar los datos necesarios para ejecutar el resto del pipeline. Incluye rutas, estructuras y comprobación básica de integridad de los archivos descargados.
 
-2. `EDA.ipynb` (Exploratory Data Analysis)
+2. `EDA_.ipynb` (Exploratory Data Analysis)
 
 Este notebook contiene un análisis exploratorio de los datos clínicos y neuropsicológicos. Se incluyen visualizaciones de distribuciones, análisis de correlaciones, detección de valores atípicos y primeras inferencias útiles para orientar los modelos de ML.
 
