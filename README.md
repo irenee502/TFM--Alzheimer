@@ -3,6 +3,8 @@ Master´s thesis 🧠 TFM - Detección Temprana de Deterioro Cognitivo Leve medi
 
 Este repositorio contiene todo el código, scripts y documentación utilizados en el Trabajo de Fin de Máster (TFM), cuyo objetivo es desarrollar un sistema de diagnóstico temprano del **Deterioro Cognitivo Leve (DCL)** mediante modelos de **Machine Learning** y **Deep Learning** aplicados a datos clínicos, neuropsicológicos y de neuroimagen funcional (fMRI).
 
+La base de datos utilizada es:   Dallas LifeSpan BrainStudy" disponible en la plataforma OpenNeuro      https://openneuro.org/datasets/ds004856/versions/1.0.0
+
 A continuación se describe brevemente el contenido de cada uno de los archivos y carpetas del repositorio:
 
 1. `Descarga_DATABASE_TFM.ipynb`
